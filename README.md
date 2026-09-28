@@ -4,7 +4,7 @@ A small device that leverages (still) powerful features.
 
 ![image](/images/analog_discovery_2.png)
 
-### Installation onto Linux
+### Linux Installation
 
 In the `lib` folder, do the following:
 
